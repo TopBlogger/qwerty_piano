@@ -20,7 +20,7 @@ The mod is deliberately conservative:
 In maiden REPL:
 
 ```
-;install https://github.com/dppopov/qwerty-piano
+;install https://github.com/TopBlogger/qwerty_piano
 ```
 
 Or copy the `qwerty_piano/` folder into `~/dust/code/qwerty_piano` manually.
